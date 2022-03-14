@@ -21,6 +21,8 @@ ___
 * 🔄 Source Code (2011) = 7.8/10
 * ♻️ Snowpiercer (2013) = 8.5/10
 * 🎈 The Green Mile (1999) = 9.2/10
+* 🌈 Dead Poet Society (1989) = 9.8/10
+* 🍽 American Psycho (2000) = 6.7/10
 
 ---
 ![](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
