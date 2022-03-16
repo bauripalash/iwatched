@@ -23,6 +23,31 @@ ___
 * 🎈 The Green Mile (1999) = 9.2/10
 * 🌈 Dead Poet Society (1989) = 9.8/10
 * 🍽 American Psycho (2000) = 6.7/10
+* 🙈 The Kashmir Files (2022) = 7.8/10
+* 🚸 The Adam Project (2022) = 5.5/10
+* 🎮  Free Guy (2021) = 8/10
+* 🗞 The Post (2017) = 7/10
+* ❄ Sully: Miracle on the Hudson (2016) = 6.8/10
+* Bridge of Spies (2015) = 8/10
+* The Ninth Gate (1999) = 6/10
+* Good Will Hunting (1997) = 9/10
+* Ocean's Eleven (2001) = 8/10
+* Ocean's Twelve (2004) = 6/10
+* Ocean's Thirteen (2007) = 6.4/10
+* Inglourious Basterds (2009) = 8.5/10
+* Se7en (1995) = 6.8/10
+* Catch Me If You Can (2002) = 9/10
+* Hidden Figures (2016) = 7/10
+* Lucy (2014) = 6/10
+* Underworld (2003) = 6.8/10
+
+
+
+
+
 
 ---
+> PS: These "ratings" are strictly based on my opinions and are not in any particular order; I just put them based on my recollection.
+
+
 ![](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
