@@ -28,18 +28,19 @@ ___
 * 🎮  Free Guy (2021) = 8/10
 * 🗞 The Post (2017) = 7/10
 * ❄ Sully: Miracle on the Hudson (2016) = 6.8/10
-* Bridge of Spies (2015) = 8/10
-* The Ninth Gate (1999) = 6/10
-* Good Will Hunting (1997) = 9/10
-* Ocean's Eleven (2001) = 8/10
-* Ocean's Twelve (2004) = 6/10
-* Ocean's Thirteen (2007) = 6.4/10
-* Inglourious Basterds (2009) = 8.5/10
-* Se7en (1995) = 6.8/10
-* Catch Me If You Can (2002) = 9/10
-* Hidden Figures (2016) = 7/10
-* Lucy (2014) = 6/10
-* Underworld (2003) = 6.8/10
+* 🎩 Bridge of Spies (2015) = 8/10
+* 💰 The Ninth Gate (1999) = 6/10
+* 🧮 Good Will Hunting (1997) = 9/10
+* 🏧 Ocean's Eleven (2001) = 8/10
+* 🧸 Ocean's Twelve (2004) = 6/10
+* 🎭 Ocean's Thirteen (2007) = 6.4/10
+* ♻️ Inglourious Basterds (2009) = 8.5/10
+* 😫 Se7en (1995) = 6.8/10
+* 🤑 Catch Me If You Can (2002) = 9/10
+* 🙈 Hidden Figures (2016) = 7/10
+* 🛼 Lucy (2014) = 6/10
+* 🍬 Underworld (2003) = 6.8/10
+* 🧔 Bachchhan Paandey (2022) = 6.5/10
 
 
 
