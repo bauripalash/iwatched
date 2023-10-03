@@ -42,6 +42,27 @@ ___
 * 🍬 Underworld (2003) = 6.8/10
 * 🧔 Bachchhan Paandey (2022) = 6.5/10
 
+## Series 
+* FRIENDS = 6
+* How I Met Your Mother = 5.5
+* Wednesday = 5
+* Stranger Things = 6.5
+* Dark = 8
+* The Witcher = 8
+* Money Heist = 7
+
+
+## Dramas
+* Legend of The Blue Sea = 6.5
+* Guardian: The Lonely and Great God = 8.5
+* Business Proposal  = 7
+* What's Wrong with Secretary Kim = 6.5
+* Strong Woman Do Bong Soon = 6
+* Vincenzo = 7
+* The Heirs = 6
+* Heartbeat = 6.5
+* City Hunter = 6
+* The King: Eternal Monarch = 6.5
 
 
 
