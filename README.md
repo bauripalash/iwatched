@@ -1,6 +1,12 @@
 # I watched! 📺
 ##### Rating according to me of the Movies, Series and other media stuff
 ___
+## Anime
+* Attack on Titan = 9/10
+* Spy x Family (cont) = 8/10
+* The Millionaire Detective = 6/10
+
+  
 ## Movies
 * 👻 Ghostbusters Afterlife (2021) = 7/10
 * 👾 Shang-Chi and The Legend of The Ten Rings (2021) = 8/10
